@@ -18,6 +18,6 @@ bool  io_fb_fr_drop_sensor
 bool  io_fb_rl_drop_sensor
 bool  io_fb_rm_drop_sensor
 bool  io_fb_rr_drop_sensor
-bool  io_fb_dis_charge_flg
-bool  io_fb_charge_en
-bool  io_fb_scram_st
+bool  io_fb_disChargeflg
+bool  io_fb_chargeEn
+bool  io_fb_ScramSt

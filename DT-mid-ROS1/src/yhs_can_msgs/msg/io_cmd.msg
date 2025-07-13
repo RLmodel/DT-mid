@@ -6,4 +6,4 @@ bool     io_cmd_braking_lamp
 bool     io_cmd_clearance_lamp
 bool     io_cmd_fog_lamp
 bool	 io_cmd_speaker
-bool     io_cmd_dis_charge
+bool     io_cmd_disCharge
